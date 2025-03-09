@@ -22,3 +22,8 @@ A Streamlit-based web application that demonstrates the capabilities of Google's
 ```bash
 git clone [your-repository-url]
 cd gemini-ai-app
+```
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
