@@ -41,4 +41,34 @@ streamlit run app.py
 - **Text Chat**: Type questions in the text input field
 
 3. Interact with the AI:
+- Get image descriptions
+- Ask follow-up questions about images
+- Maintain conversation context with chat history
+
+## Example Promts 
+- "Describe this image in detail"
+- "What kind of plant is shown here?"
+- "Are there any safety concerns in this picture?"
+
+**Chat mode**:
+- "Explain quantum computing simply"
+- "What's the weather forecast philosophy?"
+- "Help me plan a healthy meal plan"
+
+## Confiiguration
+1. Obtain Google API Key:
+ - Visit Google AI Studio
+ - Create API key for Gemini API
+2. Application Settings:
+ - Modify .env file with your API key
+ - Adjust temperature/personality through model parameters
+
+## Technologies Used
+-**Google Gemini AI**: Core AI capabilities
+-**Streamlit**: Web application framework
+-**Python**: Backend logic
+-**dotenv**: Environment variable management
+-**Pillow**: Image processing
+ 
+
 
