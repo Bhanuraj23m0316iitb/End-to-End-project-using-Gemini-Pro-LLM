@@ -36,7 +36,7 @@ A Streamlit-based web application that demonstrates the capabilities of Google's
   bash
   streamlit run app.py
 
-2.Choose mode:
+2. Choose mode:
   Image Analysis: Upload an image and optionally add a prompt
   Text Chat: Type questions in the text input field
 
