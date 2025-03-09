@@ -64,11 +64,11 @@ streamlit run app.py
   - Adjust temperature/personality through model parameters
 
 ## Technologies Used
--**Google Gemini AI**: Core AI capabilities
--**Streamlit**: Web application framework
--**Python**: Backend logic
--**dotenv**: Environment variable management
--**Pillow**: Image processing
+- **Google Gemini AI**: Core AI capabilities
+- **Streamlit**: Web application framework
+- **Python**: Backend logic
+- **dotenv**: Environment variable management
+- **Pillow**: Image processing
  
 
 
