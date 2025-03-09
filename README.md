@@ -37,7 +37,8 @@ GOOGLE_API_KEY=your_actual_api_key_here
 streamlit run app.py
 ```
 2. Choose mode:
---Image Analysis: Upload an image and optionally add a prompt
---Text Chat: Type questions in the text input field
+- **Image Analysis**: Upload an image and optionally add a prompt
+- **Text Chat**: Type questions in the text input field
 
+3. Interact with the AI:
 
