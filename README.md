@@ -57,11 +57,11 @@ streamlit run app.py
 
 ## Confiiguration
 1. Obtain Google API Key:
- - Visit Google AI Studio
- - Create API key for Gemini API
+  - Visit Google AI Studio
+  - Create API key for Gemini API
 2. Application Settings:
- - Modify .env file with your API key
- - Adjust temperature/personality through model parameters
+  - Modify .env file with your API key
+  - Adjust temperature/personality through model parameters
 
 ## Technologies Used
 -**Google Gemini AI**: Core AI capabilities
