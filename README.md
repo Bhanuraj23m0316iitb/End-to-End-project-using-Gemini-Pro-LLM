@@ -27,3 +27,17 @@ cd gemini-ai-app
 ```bash
 pip install -r requirements.txt
 ```
+3. Create .env file:
+```bash
+GOOGLE_API_KEY=your_actual_api_key_here
+```
+## Usage
+1. Start the application:
+```bash
+streamlit run app.py
+```
+2. Choose mode:
+--Image Analysis: Upload an image and optionally add a prompt
+--Text Chat: Type questions in the text input field
+
+
